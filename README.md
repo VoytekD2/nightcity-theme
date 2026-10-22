@@ -1,4 +1,4 @@
-# Night City Journal
+# Night City 2077
 
 A dark color theme for VS Code inspired by the in-game journal screen of **Cyberpunk 2077**: deep navy-black background, red interface text, cyan highlights and the signature yellow accent.
 
@@ -23,8 +23,8 @@ Every color was sampled from the journal screen and then tuned for readability i
 ## Install
 
 1. Open the Extensions view (`Ctrl+Shift+X`).
-2. Search for **Night City Journal** and install it.
-3. Press `Ctrl+K Ctrl+T` and choose **Night City Journal**.
+2. Search for **Night City 2077** and install it.
+3. Press `Ctrl+K Ctrl+T` and choose **Night City 2077**.
 
 ## Recommended font
 
@@ -39,7 +39,7 @@ The screenshot uses [Share Tech Mono](https://fonts.google.com/specimen/Share+Te
 
 ## Disclaimer
 
-Night City Journal is an unofficial fan-made theme. It is not affiliated with, endorsed by or connected to CD PROJEKT RED. Cyberpunk 2077 is a trademark of CD PROJEKT S.A.
+Night City 2077 is an unofficial fan-made theme. It is not affiliated with, endorsed by or connected to CD PROJEKT RED. Cyberpunk 2077 is a trademark of CD PROJEKT S.A.
 
 ## License
 
