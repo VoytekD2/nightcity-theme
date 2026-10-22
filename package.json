@@ -1,6 +1,6 @@
 {
   "name": "nightcity",
-  "displayName": "Night City",
+  "displayName": "Night City Journal",
   "description": "A dark red, cyan and yellow color theme inspired by the Cyberpunk 2077 in-game journal. Unofficial fan theme.",
   "version": "0.1.0",
   "publisher": "VoytekD",
@@ -38,7 +38,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Night City",
+        "label": "Night City Journal",
         "uiTheme": "vs-dark",
         "path": "./themes/nightcity-color-theme.json"
       }

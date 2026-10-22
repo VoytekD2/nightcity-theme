@@ -1,6 +1,6 @@
 {
   "$schema": "vscode://schemas/color-theme",
-  "name": "Night City",
+  "name": "Night City Journal",
   "type": "dark",
   "colors": {
     "focusBorder": "#fcee0a80",
