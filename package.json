@@ -1,0 +1,47 @@
+{
+  "name": "nightcity",
+  "displayName": "Night City",
+  "description": "A dark red, cyan and yellow color theme inspired by the Cyberpunk 2077 in-game journal. Unofficial fan theme.",
+  "version": "0.1.0",
+  "publisher": "VoytekD",
+  "author": {
+    "name": "Wojciech Dołżyk"
+  },
+  "license": "MIT",
+  "icon": "images/icon.png",
+  "galleryBanner": {
+    "color": "#080b12",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VoytekD2/nightcity-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/VoytekD2/nightcity-theme/issues"
+  },
+  "keywords": [
+    "cyberpunk",
+    "cyberpunk 2077",
+    "night city",
+    "dark",
+    "red",
+    "neon",
+    "theme"
+  ],
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night City",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nightcity-color-theme.json"
+      }
+    ]
+  }
+}
